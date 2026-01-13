@@ -4,7 +4,7 @@ A blog application that allows users to create, edit, and publish blog posts. It
 
 ## 🚀 Demo
 
-Live demo link: [Link here]
+Live demo link: https://69666ad3aae723078249f889--bolgger-by-anas.netlify.app/
 
 ## 🖼️ Screenshots
 
